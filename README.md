@@ -1,6 +1,6 @@
-[# SnakeGameAI
+SnakeGameAI
 
-Snake used AI to learn and play itself. Progess is visually tracked through chart.
+Snake uses AI to learn and play itself. Progess is visually tracked through chart.
 
 # How To Use
 
